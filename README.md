@@ -285,7 +285,7 @@ Les archives générées suivent cette convention de nommage, compatible avec le
 
 ## 🔗 Script Client Associé
 
-Ce script hébergeur fonctionne en tandem avec le **script client** disponible dans ce dépôt : [lien vers le dépôt du script client].
+Ce script hébergeur fonctionne en tandem avec le **script client** disponible dans ce dépôt : [[script-download-backup-site-ftp](https://github.com/MikaPST/script-download-backup-site-ftp)].
 
 Le script client se charge de :
 - Récupérer les archives produites par ce script via FTP.
